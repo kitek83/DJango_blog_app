@@ -39,7 +39,7 @@ header h1 a:hover {
 .post-entry h2 a:visited
 {
     color: blue;
-    text-decoration: none;
+    text-decoration: none ;
 }
 
 .post-entry p {
@@ -49,7 +49,7 @@ header h1 a:hover {
 }
 
 .post-entry h2 a:hover {
-    color:red;
+    color: red;
 }
 
 
